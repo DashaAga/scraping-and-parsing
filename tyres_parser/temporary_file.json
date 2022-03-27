@@ -1,0 +1,474 @@
+{
+    "pageUrl": "/catalog/legkovye/?PAGEN_1=417",
+    "items": [
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": false,
+            "amount": 4,
+            "season": "Летние",
+            "price": 59200,
+            "name": "245/35R21 96Y XL P Zero * TL Run Flat L.S.PZ4",
+            "productId": 146125,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/b67/275_275_1/psm5fqogvcgsb27olxpe0e7ibqo5rmn6.jpg",
+            "url": "/catalog/legkovye/24535-r21-p-zero-luxury-saloon-xl-pirelli-96y-tl-run-flat-49674/",
+            "promo": [],
+            "discountStores": [],
+            "fortochkiStores": [
+                {
+                    "STORE_ID": "191",
+                    "PRODUCT_ID": "146125",
+                    "AMOUNT": "2",
+                    "PRODUCT_XML_ID": "49674",
+                    "STORE_XML_ID": "FORTOCHKI_43",
+                    "STORE_NAME": "Удалённый склад",
+                    "PRICE": "58140.00",
+                    "PRICE_ID": "96"
+                }
+            ],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "146125",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "49674",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "59200.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "initial": {
+                "brandCode": "375",
+                "vendorCode": "2390300",
+                "model": "P Zero"
+            },
+            "raznItems": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": true,
+            "amount": 2,
+            "season": "Летние",
+            "price": 59120,
+            "name": "315/30 R21  Pilot Sport 4 XL Michelin 105Y TL ACOUSTIC N0",
+            "productId": 124931,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/57b/275_275_1/qgjvwrpopl25gsfmwbrmh6yyy2prtb7z.jpg",
+            "url": "/catalog/legkovye/31530-r21-pilot-sport-4-xl-michelin-105y-tl-acoustic-n088192/",
+            "promo": [
+                {
+                    "PROMO_TYPE": "гарантия",
+                    "PROMO_COLOR": "blue"
+                }
+            ],
+            "discountStores": [],
+            "fortochkiStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "124931",
+                    "AMOUNT": "2",
+                    "PRODUCT_XML_ID": "88192",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "59120.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "initial": {
+                "brandCode": "273",
+                "vendorCode": "171043",
+                "model": "Pilot Sport 4"
+            },
+            "raznItems": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": true,
+            "amount": 4,
+            "season": "Зимние нешипованные",
+            "price": 59320,
+            "name": "305/30 R21  Pilot Alpin 5 XL Michelin 104V TL",
+            "productId": 126362,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/350/275_275_1/6oeph7pps5vze4ns3mcr6iha7vtmkpb6.jpg",
+            "url": "/catalog/legkovye/30530-r21-pilot-alpin-5-xl-michelin-104v-tl86323/",
+            "promo": [
+                {
+                    "PROMO_TYPE": "гарантия",
+                    "PROMO_COLOR": "blue"
+                }
+            ],
+            "discountStores": [],
+            "fortochkiStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "126362",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "86323",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "59320.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "initial": {
+                "brandCode": "273",
+                "vendorCode": "926479",
+                "model": "Pilot Alpin 5"
+            },
+            "raznItems": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": false,
+            "amount": 1,
+            "season": "Летние",
+            "price": 61130,
+            "name": "275/35 R21  P Zero Luxury Saloon XL Pirelli 103Y TL r-f *",
+            "productId": 130946,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/52f/275_275_1/6pqfpv2z0nj5td1fm00wf1xequtedd4o.jpg",
+            "url": "/catalog/legkovye/27535-r21-p-zero-luxury-saloon-xl-pirelli-103y-tl-r-f-70902/",
+            "promo": [],
+            "discountStores": [],
+            "fortochkiStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "130946",
+                    "AMOUNT": "1",
+                    "PRODUCT_XML_ID": "70902",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "61130.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "initial": {
+                "brandCode": "375",
+                "vendorCode": "2618200",
+                "model": "P Zero Luxury Saloon"
+            },
+            "raznItems": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": true,
+            "amount": 1,
+            "season": "Летние",
+            "price": 61490,
+            "name": "315/35 R22  PremiumContact 6 XL Continental 111Y TL SSR *",
+            "productId": 123516,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/2f1/275_275_1/b0eoehi74hwnohi1rvyqopi5m3e49yel.jpg",
+            "url": "/catalog/legkovye/31535-r22-premiumcontact-6-xl-continental-111y-tl-ssr-89680/",
+            "promo": [
+                {
+                    "PROMO_TYPE": "гарантия",
+                    "PROMO_COLOR": "blue"
+                }
+            ],
+            "discountStores": [],
+            "fortochkiStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "123516",
+                    "AMOUNT": "1",
+                    "PRODUCT_XML_ID": "89680",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "61490.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "initial": {
+                "brandCode": "254",
+                "vendorCode": "0358808",
+                "model": "PremiumContact 6"
+            },
+            "raznItems": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": false,
+            "amount": 0,
+            "season": "Летние",
+            "price": 62850,
+            "name": "315/40R21 111Y Latitude Sport 3 MO-S Acoustic TL",
+            "productId": 159143,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/ec6/275_275_1/9wolrtu8p3jab9g91ukc7ftwn51dqtyx.png",
+            "url": "/catalog/legkovye/31540r21-111y-latitude-sport-3-mo-s-acoustic-tl-072380/",
+            "promo": [],
+            "discountStores": [],
+            "fortochkiStores": [
+                {
+                    "STORE_ID": "191",
+                    "PRODUCT_ID": "159143",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "072380",
+                    "STORE_XML_ID": "FORTOCHKI_43",
+                    "STORE_NAME": "Удалённый склад",
+                    "PRICE": "62850.00",
+                    "PRICE_ID": "96"
+                }
+            ],
+            "commonStores": [],
+            "initial": {
+                "brandCode": "",
+                "vendorCode": "072380",
+                "model": "Latitude Sport 3"
+            },
+            "raznItems": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": false,
+            "amount": 2,
+            "season": "Зимние нешипованные",
+            "price": 63030,
+            "name": "285/35 R21  Scorpion Ice & Snow XL Pirelli 105V TL Run-Flat",
+            "productId": 127047,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/0f9/275_275_1/0c9xtanv6vhfrwy58vtkvos65g0phyo5.jpg",
+            "url": "/catalog/legkovye/28535-r21-scorpion-ice--snow-xl-pirelli-105v-tl-run-flat85111/",
+            "promo": [],
+            "discountStores": [],
+            "fortochkiStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "127047",
+                    "AMOUNT": "2",
+                    "PRODUCT_XML_ID": "85111",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "63030.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "initial": {
+                "brandCode": "375",
+                "vendorCode": "1932700",
+                "model": "Scorpion Ice & Snow"
+            },
+            "raznItems": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": true,
+            "amount": 1000,
+            "season": "Летние",
+            "price": 63880,
+            "name": "315/35 R20  Latitude Sport 3 XL Michelin 110Y TL ZP",
+            "productId": 103132,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/df7/275_275_1/sgq7xws5b7b5t822c5bf33q9ic95h9nb.jpg",
+            "url": "/catalog/legkovye/31535-r20-latitude-sport-3-xl-michelin-110y-tl-zp75176/",
+            "promo": [
+                {
+                    "PROMO_TYPE": "гарантия",
+                    "PROMO_COLOR": "blue"
+                }
+            ],
+            "discountStores": [],
+            "fortochkiStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "156",
+                    "PRODUCT_ID": "103132",
+                    "AMOUNT": "2",
+                    "PRODUCT_XML_ID": "75176",
+                    "STORE_XML_ID": "419",
+                    "STORE_NAME": "г. Челябинск, Свердловский тракт, 12б",
+                    "PRICE": "63880.00",
+                    "PRICE_ID": "7"
+                },
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "103132",
+                    "AMOUNT": "24",
+                    "PRODUCT_XML_ID": "75176",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "63880.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "initial": {
+                "brandCode": "273",
+                "vendorCode": "146108",
+                "model": "Latitude Sport 3"
+            },
+            "raznItems": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": false,
+            "amount": 4,
+            "season": "Летние",
+            "price": 65690,
+            "name": "285/40 R23  Scorpion Zero All Season XL Pirelli 111Y TL PNCS LR",
+            "productId": 156630,
+            "sectionId": 7278,
+            "imgSrc": "/local/templates/.default/src/img/Tires_no-image.jpg",
+            "url": "/catalog/legkovye/28540-r23-scorpion-zero-all-season-xl-pirelli-111y-tl-pncs-lr25468/",
+            "promo": [],
+            "discountStores": [],
+            "fortochkiStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "156630",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "25468",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "65690.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "initial": {
+                "brandCode": "375",
+                "vendorCode": "3583900",
+                "model": "Scorpion Zero All Season"
+            },
+            "raznItems": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": false,
+            "amount": 0,
+            "season": "Летние",
+            "price": 66200,
+            "name": "345/30ZR20 106(Y) Pilot Sport 4 S TL",
+            "productId": 158746,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/9cf/275_275_1/uq1fzj1x2aoilkdzdru1ptsh17usaxii.png",
+            "url": "/catalog/legkovye/34530zr20-106y-pilot-sport-4-s-tl-094656/",
+            "promo": [],
+            "discountStores": [],
+            "fortochkiStores": [
+                {
+                    "STORE_ID": "191",
+                    "PRODUCT_ID": "158746",
+                    "AMOUNT": "2",
+                    "PRODUCT_XML_ID": "094656",
+                    "STORE_XML_ID": "FORTOCHKI_43",
+                    "STORE_NAME": "Удалённый склад",
+                    "PRICE": "66200.00",
+                    "PRICE_ID": "96"
+                }
+            ],
+            "commonStores": [],
+            "initial": {
+                "brandCode": "",
+                "vendorCode": "094656",
+                "model": "Pilot Sport 4 S"
+            },
+            "raznItems": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": true,
+            "amount": 6,
+            "season": "Летние",
+            "price": 66750,
+            "name": "315/30 R22  Pilot Sport 4 S XL Michelin 107Y TL",
+            "productId": 125050,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/5d2/275_275_1/4isz54wc7c5zxle2zvkc4n1xaivhv2g2.jpg",
+            "url": "/catalog/legkovye/31530-r22-pilot-sport-4-s-xl-michelin-107y-tl88036/",
+            "promo": [
+                {
+                    "PROMO_TYPE": "гарантия",
+                    "PROMO_COLOR": "blue"
+                }
+            ],
+            "discountStores": [],
+            "fortochkiStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "125050",
+                    "AMOUNT": "6",
+                    "PRODUCT_XML_ID": "88036",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "66750.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "initial": {
+                "brandCode": "273",
+                "vendorCode": "245248",
+                "model": "Pilot Sport 4 S"
+            },
+            "raznItems": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": false,
+            "amount": 0,
+            "season": "Зимние",
+            "price": 67130,
+            "name": "315/35R21 111V XL Scorpion Winter * TL Run Flat",
+            "productId": 127124,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/6f4/275_275_1/kn1emflx7t0fgy036tl4r2zg9e00gi0r.jpg",
+            "url": "/catalog/legkovye/31535-r21-scorpion-winter-xl-pirelli-111v-tl-run-flat-85019/",
+            "promo": [],
+            "discountStores": [],
+            "fortochkiStores": [
+                {
+                    "STORE_ID": "191",
+                    "PRODUCT_ID": "127124",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "85019",
+                    "STORE_XML_ID": "FORTOCHKI_43",
+                    "STORE_NAME": "Удалённый склад",
+                    "PRICE": "67130.00",
+                    "PRICE_ID": "96"
+                }
+            ],
+            "commonStores": [],
+            "initial": {
+                "brandCode": "375",
+                "vendorCode": "3278700",
+                "model": "Scorpion Winter"
+            },
+            "raznItems": []
+        }
+    ],
+    "navString": "<!-- pagination -->\n<div class=\"pagination\">\n\t\t\t<a href=\"/catalog/legkovye/?PAGEN_1=\" class=\"pagination__arrow pagination__arrow_left\">\n\t\t\t<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" viewBox=\"0 0 10856 7374\">\n\t\t\t<path d=\"M10638 1561l-4346 5232c-1,0 -2,1 -2,1 -62,136 -147,264 -274,364 -431,338 -1060,272 -1407,-149l-4388 -5320c-346,-420 -278,-1034 152,-1372 430,-338 1060,-270 1405,148l3601 4367 3716 -4473c343,-414 967,-479 1392,-147 426,332 493,936 151,1349z\"/>\n\t\t</svg>\n\t\t\t</a>\n\t\n\t\t\t<a class=\"pagination__page\" href=\"/catalog/legkovye/?\">1</a>\n\t\t\t\t<span class=\"pagination__page pagination__page_dots\">...</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"pagination__page\" href=\"/catalog/legkovye/?PAGEN_1=414\">414</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"pagination__page\" href=\"/catalog/legkovye/?PAGEN_1=415\">415</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"pagination__page\" href=\"/catalog/legkovye/?PAGEN_1=416\">416</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"pagination__page pagination__page_active\">417</span>\n\t\t\t\t\t\t\t\n\t\n\n\t\t\t<a class=\"pagination__page\" href=\"/catalog/legkovye/?PAGEN_1=418\">418</a>\n\t\n\t\t\t<a href=\"/catalog/legkovye/?PAGEN_1=418\" class=\"pagination__arrow pagination__arrow_right\">\n\t\t\t<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" viewBox=\"0 0 10856 7374\">\n\t\t\t<path d=\"M10638 1561l-4346 5232c-1,0 -2,1 -2,1 -62,136 -147,264 -274,364 -431,338 -1060,272 -1407,-149l-4388 -5320c-346,-420 -278,-1034 152,-1372 430,-338 1060,-270 1405,148l3601 4367 3716 -4473c343,-414 967,-479 1392,-147 426,332 493,936 151,1349z\"/>\n\t\t</svg>\n\t\t\t</a>\n\t</div>\n<!-- /pagination -->\n",
+    "totalCount": "5009",
+    "pageCount": 418
+}
